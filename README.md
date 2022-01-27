@@ -1,2 +1,2 @@
 # Alura-Python-para-DS
-oi
+Formação da plataforma Alura, aqui você encontra todo o notebook que eu utilizei durante os cursos separados por títulos.
